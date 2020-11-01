@@ -1,8 +1,0 @@
-       1  The quick brown fox jumped over the lazy dog and then ran to
-       2  the hen-house where he ate the rooster and all of the
-       3  chickens. The brown fox then made a dessert of the white
-       4  protein packets with the hard shell and creamy yellow
-       5  center. 
-
-LONG   1            The quick brown fox jumped over the lazy dog and then ran to
-SHORT  5            center. 
